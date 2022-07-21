@@ -1,0 +1,84 @@
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.csproj.AssemblyReference.cache
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.AssemblyInfoInputs.cache
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.AssemblyInfo.cs
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.csproj.CoreCompileInputs.cache
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Unit04.exe
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Unit04.deps.json
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Unit04.runtimeconfig.json
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Unit04.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Unit04.pdb
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/Raylib-cs.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.csproj.CopyComplete
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/refint/Unit04.dll
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.pdb
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/Unit04.genruntimeconfig.cache
+C:/Users/wildm/Documents/SEMESTER 6/CLASSES class/C Sharp/CSE210-04/obj/Debug/net6.0/ref/Unit04.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Unit04.exe
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Unit04.deps.json
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Unit04.runtimeconfig.json
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Unit04.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Unit04.pdb
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/Raylib-cs.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.csproj.AssemblyReference.cache
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.AssemblyInfoInputs.cache
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.AssemblyInfo.cs
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.csproj.CoreCompileInputs.cache
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.csproj.CopyComplete
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/refint/Unit04.dll
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.pdb
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/Unit04.genruntimeconfig.cache
+C:/Users/ckcom/OneDrive/Desktop/CSE210/CSE210-04-1/obj/Debug/net6.0/ref/Unit04.dll
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Unit04
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Unit04.deps.json
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Unit04.runtimeconfig.json
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Unit04.dll
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Unit04.pdb
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/Raylib-cs.dll
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/claudio/Downloads/CSE210-04-main/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.csproj.AssemblyReference.cache
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.AssemblyInfoInputs.cache
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.AssemblyInfo.cs
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.csproj.CoreCompileInputs.cache
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.csproj.CopyComplete
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.dll
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/refint/Unit04.dll
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.pdb
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/Unit04.genruntimeconfig.cache
+/Users/claudio/Downloads/CSE210-04-main/obj/Debug/net6.0/ref/Unit04.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Unit04
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Unit04.deps.json
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Unit04.runtimeconfig.json
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Unit04.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Unit04.pdb
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/Raylib-cs.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/runtimes/linux-x64/native/libraylib.so
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/runtimes/osx-x64/native/libraylib.dylib
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/runtimes/win-x64/native/raylib.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/bin/Debug/net6.0/runtimes/win-x86/native/raylib.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.csproj.AssemblyReference.cache
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.AssemblyInfoInputs.cache
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.AssemblyInfo.cs
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.csproj.CoreCompileInputs.cache
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.csproj.CopyComplete
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/refint/Unit04.dll
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.pdb
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/Unit04.genruntimeconfig.cache
+/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/obj/Debug/net6.0/ref/Unit04.dll

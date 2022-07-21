@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXr0tkUDbgj7+Q3mBj5vxrvmw4o+P4LtsfCuYC2Ad9RMEkg/fAaqrK48EWJj7oFJenGE4k8MoeWUhraNN4B1Ww==",
+  "success": true,
+  "projectFilePath": "/Users/claudio/Documents/CSE210/developer starter repository/cse210-student-developer-csharp/unit04-greed/Unit04.csproj",
+  "expectedPackageFiles": [
+    "/Users/claudio/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/claudio/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
